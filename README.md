@@ -1,3 +1,12 @@
 # Hacathon
 ## Recykling. Jak w zależności od rodzaju śmieci, zmienia się kolor śmietnika?
-### Ten project będzie wykonany za pomocą wizji komputerowej.
+### Celem mojego projektu jest nauczanie ludzi prawidłowego segregowania śmieci według odpowiednich kolorów pojemników.
+
+## Biblioteki, których będę używać:
+- Keras
+- Tensorflow
+- Discord
+- Numpy
+- Pillow
+- Requests
+
