@@ -4,12 +4,12 @@
 
 
 ## Główne biblioteki, których będę używać:
-- Keras
-- Tensorflow
-- Discord
-- Numpy
-- Pillow
-- Requests
+- Keras == 2.12.0
+- Tensorflow == 2.12.0
+- Discord == 2.4.0
+- Numpy == 1.23.5
+- Pillow == 10.4.0
+- Requests == 2.32.3
 
 ### Instrukcja do używania mojej aplikacji:
 
