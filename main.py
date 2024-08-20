@@ -17,16 +17,19 @@ async def hello(ctx):
 
 @bot.command()
 async def check(ctx):
-    if ctx.message.attachments:
-        for attachment in ctx.message.attachments:
-            name = attachment.filename
-            url = attachment.url
-            await attachment.save(name)
-            await ctx.send("Your image is saved")
-            await ctx.send(get_class(model="keras_model.h5", labels="labels.txt", image=name)) 
+        try:
+            if ctx.message.attachments:
+                for attachment in ctx.message.attachments:
+                    name = attachment.filename
+                    url = attachment.url
+                    await attachment.save(name)
+                    await ctx.send("Your image is saved")
+                    await ctx.send(get_class(model="keras_model.h5", labels="labels.txt", image=name)) 
 
-    else:
-        await ctx.send("Nothing here...")  
+            else:
+                await ctx.send("Nothing here...")  
+        except:
+             await ctx.send("Oops.. choose another image and try again")
 
 
 
