@@ -12,7 +12,7 @@
 - Pillow == 10.4.0
 - Requests == 2.32.3
 
-### Instrukcja do używania mojej aplikacji:
+## Instrukcja do używania mojej aplikacji:
 
 1.Pobierz wszystkie pliki
 ![image](https://github.com/user-attachments/assets/cb06e1ba-d9e3-454f-9869-995abcc653d4)
