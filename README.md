@@ -1,7 +1,7 @@
 # Hackathon
 ## Recykling. Jak w zależności od rodzaju śmieci, zmienia się kolor śmietnika?
 ### Celem mojego projektu jest nauczanie ludzi prawidłowego segregowania śmieci według odpowiednich kolorów pojemników.
-# Na podstawie zdjęcia mój bot może wykryć materiał śmieci i pokazać do jakiego koloru pojemnika go trzeba wyrzucić.
+#### Na podstawie zdjęcia mój bot może wykryć materiał śmieci i pokazać do jakiego koloru pojemnika go trzeba wyrzucić.
 [Zrzut ekranu 2024-08-13 190206](https://github.com/user-attachments/assets/089d5a90-3ca1-48e6-b379-9a05e4857c93)
 
 
