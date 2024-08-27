@@ -1,5 +1,6 @@
 # Hackathon
 ## Recykling. Jak w zależności od rodzaju śmieci, zmienia się kolor śmietnika?
+Nazwa „recykling" pochodzi z języka angielskiego i składa się z dwóch słów: „re" oznaczającego „ponownie" i „cycle" oznaczającego „cykl". Tyle z teorii. A w praktyce? Materiały, takie jak papier, szkło, metal i tworzywa sztuczne, zyskują drugie życie i po raz kolejny zostają wprowadzone do obiegu, jako całkowicie nowe produkty. Co ważne, większość materiałów z odzysku gatunkowo nie różni się niczym od swoich poprzedników. W niektórych przypadkach proces recyklingu może nieznacznie wpłynąć na wytrzymałość i jakość przetwarzanych surowców, jednak nadal jest to rozwiązanie zdecydowanie korzystne dla środowiska naturalnego.
 ### Celem mojego projektu jest nauczanie ludzi prawidłowego segregowania śmieci według odpowiednich kolorów pojemników.
 #### Na podstawie zdjęcia mój bot może wykryć materiał śmieci i pokazać do jakiego koloru pojemnika go trzeba wyrzucić.
 ![image](https://github.com/user-attachments/assets/05f0d866-13c7-40e4-bebd-81a695affbc9)
