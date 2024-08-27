@@ -79,3 +79,4 @@ Aby upewnić się, że wszystko działa zgodnie z zamierzeniem, sprawdź dwie rz
 4. Dodaj zadania dla każdej kategorii : dodać blok try:... except:...
 
 # Mam nadziej, że moja aplikacja pomoże uratować naszą planetę! 
+##### Author : Palina Prakapovich 
